@@ -44,3 +44,12 @@ Ordinary address (Short address) as known as public address which allows everyon
 **Example of a Private address:**
 
 `0x02bddd6c139a10c5c9e81d1d6438dd26bc4a26824a2c729819d21ee1fca8b2dbc203936c798596ac4adcbe89e96c88397894b6dfab14a95ea7e137c31f56b9c81255`
+
+### Backup and restore accounts
+The process to backup your acounts :
+
+*Click File -> Backup -> Application Data*
+
+You will see files under **WanWalletGui** by default. Please select them all and make copy to a safe place where you can trust.
+
+The Accounts & Application Data stores all your public transaction records, private transaction records and OTA balance. If you delete these files , you will not lose your assets but you will not be able to see your assets at your current wallet at meantime unless you back them up in advance . However, you can always call it back via “Import Account” which we have demonstrated to you in above content.
