@@ -1,4 +1,4 @@
 - Getting started
 
-  - [Introduction](Introduction.md)
+  - [Introduction](README.md)
   - [Wan Account](wan-account.md)
