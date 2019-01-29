@@ -1,6 +1,7 @@
-# Introduction
+# Introduction  
 
-### What is Wanchain?
+### What is Wanchain?  
+
 
 Wanchain aims to build a blockchain infrastructure that can be used to realize the connection and value exchange of different block-chain networks in a decentralized way. It uses the latest theory of cryptography to make up for the shortcomings of existing inter-chain protocol. Any blockchain network, whether public chain, private chain or alliance chain, can be access to Wanchain to complete the inter-chain transaction of digital assets at a low cost. Wanchain is not just a generic inter-chain protocol, but also a distributed ledger that records inter-chain transactions and in-chain transactions. This ledger supports not only the smart contracts, but also the privacy protection of smart contract tokens trade. It is a qualitative leap to the Interconnection of thousands of Chains and turn of Chains into Internet, and the centralized application of advanced cryptography theory in the field of blockchain, as well as a new and complete blockchain network with high efficiency and completeness. Wanchain is about to reshape the economic ecology of blockchain.
 

@@ -6,7 +6,7 @@ WAN or WANCoin known as the native currancy of WAN chain. Both common intra-chai
 
 ### WAN Supply
 
-The base unit of WAN is called Win. Blow is a list of named demonimations and their value in Win accordinly.
+The base unit of WAN is called Win. Below is a list of named demonimations and their value in Win accordinly.
 
 | **Unit**  |**Win Value**   |**Win** | 
 |:---|:---|:---|
