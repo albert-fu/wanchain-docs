@@ -1,5 +1,5 @@
 ## Download binary
-download latest version from https://github.com/wanchain/go-wanchain/releases/
+Download latest version from https://github.com/wanchain/go-wanchain/releases/
 
 ## Build from source
 Download source code from github
