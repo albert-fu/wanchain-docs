@@ -123,13 +123,13 @@ owner.transfer(msg.value);
 ```
 
 ### Compile and Deploy farwestToken: Prepare the following
-• A working Wanchain client node, see previous section
-• Remix online or remix standalone IDE
-• A smart contract such as farwestToken.sol
+• A working Wanchain client node, see previous section  
+• Remix online or remix standalone IDE  
+• A smart contract such as farwestToken.sol  
 
 ### Compile and Deploy farwestToken:
 • Go to remix, copy and paste your smart contract code, make static
-syntax analysis, and compile it
+syntax analysis, and compile it  
 • Click Details on the right panel of remix, copy all the code of
-WEB3DEPLOY section from the pop-up
-• Copy the script and run it in gwan console
+WEB3DEPLOY section from the pop-up  
+• Copy the script and run it in gwan console  
