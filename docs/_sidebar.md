@@ -9,5 +9,7 @@
   - [Tools](tools.md)
 - Developer
   - [Installing Client](install-client.md)
+  - [Recommended Tools](developer-tools.md)
   - [Running a Node](wanchain-node.md)
   - [Deploying Smart Contracts](smart-contract.md)
+  - [Example Smart Contract](contract-example.md)

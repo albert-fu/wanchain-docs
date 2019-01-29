@@ -191,15 +191,15 @@ Privacy balance is stored in the map privacyBalance, function otabalanceOf can g
 
 ## How To Compile And Deploy
 
-Requirements:
+**Requirements:**
 
-> A working [Wanchain client](https://github.com/wanchain/go-wanchain) 
+* A working [Wanchain client](https://github.com/wanchain/go-wanchain) 
 
-> The [Remix](https://remix.ethereum.org/) online smart contract development IDE
+* The [Remix](https://remix.ethereum.org/) online smart contract development IDE
 
-> Your awesome Dapp consisting of one or multiple smart contracts
+* Your awesome Dapp consisting of one or multiple smart contracts
 
-Steps:
+**Steps:**
 
 Go to remix, copy and paste your smart contract code, make static syntax analysis, and compile it
 click Details on the right panel of remix, copy all the code of WEB3DEPLOY section from the pop-up
