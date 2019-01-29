@@ -7,7 +7,7 @@
 - Wallet & Tools
   - [Wallet Support](wallet-support.md)
   - [Tools](tools.md)
-- Developer
   - [Installing Client](install-client.md)
   - [Running a Node](wanchain-node.md)
   - [Deploying Smart Contracts](smart-contract.md)
+- Developer
