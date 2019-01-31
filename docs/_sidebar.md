@@ -1,7 +1,7 @@
 - Wanchain Documentation 
 
 - Get Started
-  - [Introduction](Introduction.md)
+  - [Introduction](README.md)
   - [Wan Account](wan-account.md)
   - [WAN](wan.md)
 - Wallet & Tools
